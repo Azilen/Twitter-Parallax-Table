@@ -4,8 +4,8 @@ Twitter Parallax Table is great demo just like twitter account page. Here you ca
 
 #####HOW TO IMPLEMENT IT
 
-1) User pulls down (when the Scrollview content is already at the top of the screen).
-2) User scrolls down/up
+1. User pulls down (when the Scrollview content is already at the top of the screen)
+2. User scrolls down/up
 
 
 #####PULL DOWN
