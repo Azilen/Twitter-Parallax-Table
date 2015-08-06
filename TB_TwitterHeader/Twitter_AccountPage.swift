@@ -1,5 +1,5 @@
 //
-//  Practice.swift
+//  Twitter_AccountPage.swift
 
 //  Created by Chandni Gohil on 8/3/15.
 
@@ -18,7 +18,7 @@ let height_view:CGFloat = 40.0
 let imgName:String = "header_bg"
 
 
-class Practice: UIViewController,  UITableViewDelegate {
+class Twitter_AccountPage: UIViewController,  UITableViewDelegate {
 
 
     @IBOutlet var topConstraintTableView: NSLayoutConstraint!

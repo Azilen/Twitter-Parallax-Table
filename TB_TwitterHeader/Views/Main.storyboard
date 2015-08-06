@@ -4,10 +4,10 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
     </dependencies>
     <scenes>
-        <!--Practice-->
+        <!--Twitter Account Page-->
         <scene sceneID="gO8-dp-soj">
             <objects>
-                <viewController storyboardIdentifier="Practice" id="EaR-jz-Ye1" customClass="Practice" customModule="Twitter_AccountPage" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="Practice" id="EaR-jz-Ye1" customClass="Twitter_AccountPage" customModule="Twitter_AccountPage" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="f6o-0s-vvP"/>
                         <viewControllerLayoutGuide type="bottom" id="QYB-wN-fMa"/>
