@@ -41,6 +41,8 @@ if offset <= offset_HeaderStop {
 ###BLUR
 The blurred view is obtained using FXBlurView.
 
+###Segment control
+segment control has been added in tableview section header. When tableview scrolls up, top position of tableview moves to the offset_HeaderStop and according to that content offset has been set. And when tableview scrolls down, it moves upside. 
 
 
 ![Demo][1]
