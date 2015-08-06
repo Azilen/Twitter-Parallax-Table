@@ -2,13 +2,14 @@
 
 Twitter Parallax Table is great demo just like twitter account page. Here you can see Layers overlap, scale and move in unison with the tableview offset, creating an harmonic and smooth ensemble of transitions 
 
-###How To Implement It
+###HOW TO IMPLEMENT IT
 
-1) User pulls down (when the Scrollview content is already at the top of the screen)
+1) User pulls down (when the Scrollview content is already at the top of the screen).
 2) User scrolls down/up
 
 
 ###PULL DOWN
+
 if offset < 0 {
  .....
 }
@@ -31,6 +32,7 @@ if offset <= offset_HeaderStop {
  
  }
  else {
+ 
      if avatarImage.layer.zPosition >= header.layer.zPosition{
          header.layer.zPosition = 2
      }
@@ -39,7 +41,8 @@ if offset <= offset_HeaderStop {
 ###BLUR
 The blurred view is obtained using FXBlurView.
 
-![Demo][1]
 
+
+![Demo][1]
 
   [1]: https://github.com/Azilen/Twitter-Parallax-Table/blob/master/twitter.gif
