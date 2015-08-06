@@ -2,6 +2,8 @@
 
 Twitter Parallax Table is great demo just like twitter account page. Here you can see Layers overlap, scale and move in unison with the tableview offset, creating an harmonic and smooth ensemble of transitions 
 
+####Language : Swift
+
 #####HOW TO IMPLEMENT IT
 
 1. User pulls down (when the Scrollview content is already at the top of the screen)
